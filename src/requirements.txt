@@ -1,0 +1,11 @@
+inquirer==3.4.0
+python-dotenv==1.0.1
+pydantic==2.8.2
+crewai==0.36.1
+crewai-tools==0.4.8
+langchain-openai==0.1.16
+langchain-core==0.2.23
+langchain-community==0.2.7
+pymupdf4llm==0.0.9
+sentence-transformers==3.0.1
+faiss-cpu
