@@ -13,6 +13,8 @@ pip install -r requirements.txt
 ```
 
 ## Setup
+First, a .env file must be created that contains LLM API credentials. An example can be found in the .env-example file.
+
 To be able to use this project, add PDF documents to the doc folder that describe your fault detection system.
 Afterwards, run the RAG pipeline from inside the `src` folder:
 
